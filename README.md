@@ -37,7 +37,6 @@ This project follows a standard ASIC design flow for digital circuits:
 The initial schematic of the 2:1 MUX was created using GPDK90 in Cadence. This schematic forms the base for further simulations and layout design.
 
 **Schematic Diagram:**
-_(Insert your schematic image here)_
 
 ### 2. Symbol and Testbench Creation
 A symbol view was generated, and a testbench was set up to verify functionality through transient and delay analysis.
